@@ -25,7 +25,7 @@
         <dubbo.version>2.7.3</dubbo.version>
         <mybatis-plus-version>3.2.0</mybatis-plus-version>
         <lombok-version>1.18.10</lombok-version>
-        <mysql-version>8.0.18</mysql-version>
+        <mysql-version>8.0.28</mysql-version>
     </properties>
 
     <dependencyManagement>
